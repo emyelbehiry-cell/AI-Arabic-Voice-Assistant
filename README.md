@@ -408,7 +408,13 @@ class Assistant:
                 elif "خروج" in command:
                     self.speak("وداعاً!")
                     break
-                # يمكن إضافة أوامر إضافية هنا...
+                # يمكن إضافة أوامر إضافية هن## Citation
+
+If you use this work, please cite:
+
+Elbehiry, E. A., & Gerges, A. (2026).  
+"An AI-Powered Arabic Voice Assistant Enhancing Accessibility for the Visually Impaired."  
+The Visual Computer (under review)..
             else:
                 continue
 
